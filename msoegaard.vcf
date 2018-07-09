@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Soegaard;Maria;;;
+FN: Maria Soegaard
+ORG:International Edge PR;
+TITLE:Web Enforcement Coordinator
+EMAIL;type=INTERNET;type=WORK;type=pref:maria@intledge.com
+TEL;type=WORK;type=VOICE:+1 787 995 7067
+item1.ADR;type=WORK;type=pref:;;208 Ponce de León\nSuite 1822\, Hato Rey;;;00918;Puerto Rico
+item1.X-ABADR:sg
+item2.URL;type=pref:internationaledge.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
