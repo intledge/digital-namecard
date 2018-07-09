@@ -7,7 +7,7 @@ ORG:International Edge PR;
 TITLE:International Coordiantor
 EMAIL;type=INTERNET;type=WORK;type=pref:jgonzalez@intledge.com
 TEL;type=WORK;type=VOICE:+1 787 995 7067
-item1.ADR;type=WORK;type=pref:;;208 Ponce de León\nSuite 1822\, San Juan;;;00918;Puerto Rico
+item1.ADR;type=WORK;type=pref:;;Popular Center\n208 Ponce de León\nSuite 1822\, San Juan;;;00918;Puerto Rico
 item1.X-ABADR:sg
 item2.URL;type=pref:internationaledge.com
 item2.X-ABLabel:_$!<HomePage>!$_
